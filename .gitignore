@@ -1,5 +1,5 @@
 # Binaries
-uuidkit
+/uuidkit
 *.exe
 
 # Test artifacts
